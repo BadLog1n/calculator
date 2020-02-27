@@ -1,0 +1,11 @@
+C:\Users\badlogin\source\repos\первая задача лол\первая задача лол\obj\Debug\netcoreapp2.2\первая задача лол.csprojAssemblyReference.cache
+C:\Users\badlogin\source\repos\первая задача лол\первая задача лол\obj\Debug\netcoreapp2.2\первая задача лол.csproj.CoreCompileInputs.cache
+C:\Users\badlogin\source\repos\первая задача лол\первая задача лол\obj\Debug\netcoreapp2.2\первая задача лол.AssemblyInfoInputs.cache
+C:\Users\badlogin\source\repos\первая задача лол\первая задача лол\obj\Debug\netcoreapp2.2\первая задача лол.AssemblyInfo.cs
+C:\Users\badlogin\source\repos\первая задача лол\первая задача лол\bin\Debug\netcoreapp2.2\первая задача лол.deps.json
+C:\Users\badlogin\source\repos\первая задача лол\первая задача лол\bin\Debug\netcoreapp2.2\первая задача лол.runtimeconfig.json
+C:\Users\badlogin\source\repos\первая задача лол\первая задача лол\bin\Debug\netcoreapp2.2\первая задача лол.runtimeconfig.dev.json
+C:\Users\badlogin\source\repos\первая задача лол\первая задача лол\bin\Debug\netcoreapp2.2\первая задача лол.dll
+C:\Users\badlogin\source\repos\первая задача лол\первая задача лол\bin\Debug\netcoreapp2.2\первая задача лол.pdb
+C:\Users\badlogin\source\repos\первая задача лол\первая задача лол\obj\Debug\netcoreapp2.2\первая задача лол.dll
+C:\Users\badlogin\source\repos\первая задача лол\первая задача лол\obj\Debug\netcoreapp2.2\первая задача лол.pdb
